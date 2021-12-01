@@ -1,0 +1,852 @@
+****10.1016/j.solmat.2011.05.003****
+Table 1
+Cell type,,,,J,,,sc,,(mA/cm,,2,,),,,,V,,,oc,,(mV),,,FF,,,,η,,(%),,,,R,,,,s,,,(Ω),,,,R,,,sh,,(Ω),,,,J,,,oe,,(nA/cm,,2,,)
+Planar control cell,23.9,570,0.76,10.45,0.46,1308,27
+30s nT-Si solar cell,28.9,578,0.71,11.70,3.31,622,10
+60s nT-Si solar cell,25.2,579,0.72,10.47,0.64,114,18
+90s nT-Si solar cell,18.4,569,0.75,7.9,0.85,1214,47
+
+****10.1016/j.solmat.2018.10.015****
+Table 1
+Polishing time (s),Average reflectance (%),Voc (V),Isc (A),Rs (mΩ cm2),Rsh (kΩ cm2),FF (%),η (%)
+120,10.2%,0.641,8.991,413.71,10.91,80.21,19.04
+150,12.3%,0.644,9.032,413.71,15.14,80.27,19.22
+180,13.2%,0.643,9.108,438.05,27.54,80.34,19.38
+Table 2
+Wafer type,,Voc (V),Isc (A),Rs (mΩ cm2),Rsh (kΩ cm2),FF (%),,η (%)
+Micro-texture,,Sc-Si,0.642,8.638,608.40,30.42,79.57,18.17
+Mc-Si,0.640,8.727,608.40,47.38,79.06,18.16
+,MACE Nano-texture,,Sc-Si,0.643,9.108,438.05,27.54,80.34,19.38
+Mc-Si,0.640,8.928,486.72,24.04,79.75,18.72
+
+****10.1016/j.solener.2013.10.017****
+Table 1
+Group,,Voc, (mV),,Jsc, (mA/cm2),,FF (%),,Eff (%),,Rs, (Ω)
+FT (4 cells),552.5±14,26.8±0.8,41.52±8.3,6.16±1.4,1.57±0.42
+ST-A (4 cells),553.8±7,27.7±1.1,58.95±6.8,9.06±1.2,0.62±0.23
+ST-B (4 cells),554.2±3,29.2±0.5,63.02±2.7,10.2±0.4,0.35±0.04
+
+****10.1016/j.apsusc.2012.10.081****
+Table 1
+Cell type,,V,oc (mV),,J,sc (mA/cm2),FF (%),,η (%)
+Reference average,615,33.9,77.9,16.3
+Reference best,615,33.9,79.9,16.7
+Micro/nano texture average,622,35.6,77.0,17.1
+Micro/nano texture best,623,35.5,79.3,17.5
+
+****10.1016/j.solmat.2015.05.030****
+Table 1
+****10.1016/j.apsusc.2014.04.101****
+Table 1
+Wafer group,RIE parameters,RIE Si etch depth (μm/side),RIE etch rate (μm/min/side),,,,Power (W),Chamber pressure (mTorr),Flow ratio (SF6:O2),Time (min)
+G-1,450,200,2:1,14,2.5,0.18
+G-2,425,200,2:1,13,2.05,0.16
+G-3,425,200,2:1,11,1.4,0.13
+G-4,425,200,2:1,10,1.2,0.12
+G-5,425,200,2:1,8,1.1,0.14
+G-6,375,200,2:1,15,1.5,0.10
+G-7,375,200,2:1,12,1.3,0.11
+G-8,375,200,2:1,10,1.2,0.12
+Table 2
+Wafer group,Texturing types,Double-textured and micro-textured multi-Si wafers,,,,,Pre-diffusion (just textured),Post-diffusion (after DRE/etch-back, ARC deposition and densification),,,,,Surface reflectance,Surface reflectance,Lifetime parameters,,,,,WAR (%),WAR (%),,τ,eff (μs),Implied V,oc (mV),,J,0e (pA/cm2),,,,,Ave,Std dev,Ave,Std dev,Ave,Std dev,Ave,Std dev,Ave,Std dev
+G-1,Double,2.1,0.1,0.8,0.1,14.7,1.1,620.8,2.9,1.29,0.08
+G-2,4.1,0.1,1.8,0.1,23.0,1.4,627.4,3.0,0.72,0.04
+G-3,7.0,0.2,2.6,0.1,28.5,0.9,631.3,2.1,0.43,0.02
+G-4,8.9,0.3,2.9,0.1,29.6,0.8,631.6,2.5,0.45,0.02
+G-5,10.1,0.4,3.0,0.1,30.9,1.4,633.8,2.7,0.55,0.03
+G-6,12.7,0.4,3.2,0.1,34.7,1.0,636.6,2.3,0.34,0.02
+G-7,15.3,0.4,3.5,0.1,31.4,1.2,634.4,2.9,0.44,0.03
+G-8,18.8,0.5,4.3,0.1,34.8,1.2,634.3,2.3,0.35,0.02
+G-9,Micro (acidic),26.7,0.7,6.1,0.2,31.9,1.5,634.1,2.9,0.44,0.03
+
+****10.1016/j.solmat.2018.06.019****
+Table 1
+Cell,Area [cm2],,V,OC [mV],,J,SC, I-V [mA/cm2],,FF [%],η [%]
+1,a
+0.72,709,40.7,76.4,22.1
+2,a
+0.72,681,41.3,80.0,22.5
+3,a
+9.00,696,39.6,79.6,21.9
+4,b
+1.00,682,41.6,81.0,23.0
+5,b,c
+2.00,701,42.2,77.8,23.0
+a
+****10.1016/j.solmat.2012.09.016****
+Table 1
+DN (nm),Airflow (sccm),EP (W),BP (W),CP (Pa),ET (min)
+d=100nm h=500nm,200,150:60:10,260,10,4.0,11
+,d=200nm h=1μm,300,150:60:10,400,30,4.6,4
+,d=500nm h=1.5μm,600,150:60:10,400,30,4.6,6
+Table 2
+Surface texture,,J,sc(mA/cm2),,V,oc(mV),FF,,η (%),,R,s (Ω),,R,sh(Ω)
+Planar,18.74,502,66.32,6.08,0.172,249.04
+Pyramid,19.44,500,68.38,6.45,0.198,238.89
+Nanopillar,21.05,486,64.51,6.58,0.250,219.60
+Micro-nano,21.98,477,68.64,7.05,0.286,115.09
+Table 3
+Diameter of nanopillar (nm),,J,sc (mA/cm2),,V,oc (mV),FF,,η (%),,R,s (Ω),,R,sh(Ω)
+100,22.30,475,66.36,7.02,0.308,120.04
+200,21.98,477,68.64,7.05,0.286,115.09
+500,21.12,480,68.78,7.04,0.254,134.22
+
+****10.1016/j.solmat.2017.02.002****
+Table 1
+Qsc-Si,,,sc-Si grains (%),,,Lifetime (μs),,,Wafer numbers
+A,>90,≦1. 5,18
+B,60–90,2.45–9.32,151
+C,30–60,9.32–8.35,151
+D,<30,8.35–4.00,151
+Table 2
+R (%),,,d (nm),,,EQE (%)
+sc-grain,Micron-texture,9.17,82.76,86.08
+Nano-texture,4.69,76.81,88.98
+mc-grain,Micron-texture,9.48,82.93,84.62
+Nano-texture,4.13,77.32,88.51
+Table 3
+****10.1016/j.matlet.2018.03.092****
+Table 1
+HF/HNO3 etching,[HF]/V,[HNO3]/V,[DI]/V,Etching time/min,Sample no.,,,20 mL,10 mL,50 mL,20,Sample 1
+Cu-catalyzed etching,[HF]/M,[H2O2]/M,[CuSO4]/M,Etching time/min,Sample 2
+5.6,3.0,0.05,15
+[HF]/M,[H2O2]/M,[CuCl2]/M,Etching time/min,Sample 3
+5.6,3.0,0.05,15
+[HF]/M,[H2O2]/M,[Cu(NO3)2]/M,Etching time/min,Sample 4
+5.6,3.0,0.05,15
+
+****10.1016/j.solmat.2021.111409****
+Table 1
+Pore-widening time (s),D (nm),L (nm),W (nm),C (%),,A,F/A,proj
+/,0,0,0,0,1.79
+P1,132,220,209,8.59,5.28
+P2,205,213,261,14.19,4.97
+P3,251,188,371,11.73,4.51
+P4,282,164,407,13.40,4.20
+P5,304,102,501,19.63,3.45
+Table 2
+A,F/A,proj,,,Cell quantity,,,V,,oc, (mV),,J,,sc,,(mA/cm2,),,,FF (%),PCE (%)
+1.79,22,691.4 ± 3.1,40.55 ± 0.06,81.38 ± 0.24,22.82 ± 0.12
+3.45,21,689.5 ± 1.2,40.82 ± 0.18,81.59 ± 0.15,22.96 ± 0.08
+4.20,20,689.5 ± 1.7,41.03 ± 0.06,81.34 ± 0.21,23.01 ± 0.11
+4.51,18,689.2 ± 1.7,41.12 ± 0.07,81.44 ± 0.13,23.08 ± 0.07
+4.97,21,688.4 ± 1.5,41.06 ± 0.16,81.27 ± 0.35,22.97 ± 0.17
+5.28,22,685.9 ± 2.0,40.98 ± 0.20,81.42 ± 0.31,22.88 ± 0.25
+
+****10.1016/j.solmat.2016.04.014****
+
+****10.1016/j.egypro.2016.07.093****
+
+****10.1016/j.cap.2016.09.002****
+Table 1
+Device,JSC (mA cm−2),VOC (mV),FF (%),PCE (%)
+Reference cell [9],,22.2,615,80.2,10.9
+Device A,22.2,616,80.8,11.0
+Device B,28.6,623,80.9,14.4
+Device C,29.3,662,80.9,15.7
+Periodic nanostructure based silicon solar cell [10],,33.9,589,78.5,15.7
+Table 2
+Device,Thickness (μm),JSC (mA cm−2),VOC (mV),FF (%),PCE (%)
+SiC based ZrO2 textured,300,39.4,687,80.0,21.6
+MST based device [7],,285 ± 25,40.5,635,77.0,19.8
+
+****10.1016/j.solener.2011.03.012****
+Table 1
+Cell parameters,Reference cell,Black silicon cell
+Open circuit voltage (V),0.621,0.619
+Short circuit current density (mA/cm2),36,32
+Efficiency (%),17.5,15.68
+Fill factor,0.78,0.783
+Maximum power output (W),2.59,2.33
+Series resistance (mΩ),6.67,8.5
+Shunt resistance (Ω),24.86,9.34
+
+****10.1016/j.solmat.2016.10.044****
+Table 1
+Surface structure,,,,,,τ,,,eff,,,,[ms],,,,,SR,,,,V,,,UL,,,,[cm/s],,,,,,J,,,,0,,,s,,,,,[fA/cm,,2,,],,,,,i,,,,V,,,oc,,,,1-sun [V],,,,,,Q,,,ins,,,,[q/cm,,2,,]
+Flat/Al2O3 + Neg Corona,5.64,4.84,54.2,0.682,−5.1×1012
+,Flat/Al2O3 + Anneal,6.85,3.82,10.2,0.704,−8.1×1012
+,Pyramid/Al2O3 + Neg Corona,0.37,86.4,466,0.614,−2.3×1012
+,Pyramid/Al2O3 + Anneal,0.35,91.0,447,0.612,–
+NWA/Al2O3 + Anneal,1.21,26.0,84.6,0.660,–
+Hybrid/Al2O3 + Anneal,1.05,30.0,134,0.650,–
+Table 2
+Geometry,Conductive boundary,Bulk properties
+Cell thickness,200µm,Emitter sheet resistance,160Ω/⧠,Resistivity,1.5Ω
+
+,,Emitter width,320µm,Base sheet resistance,30Ω/⧠,Lifetime,7ms
+,Base radius,15µm,Emitter J0 – contacted,1200 fA/cm2,,Auger,Richter2012
+,Contact radius,5µm,Emitter J0 – passivated,30 fA/cm2,,Mobility,Klassen
+,Contact Pitch,70µm,Base J0 – contacted,200 fA/cm2,,Ni, eff,,9.65×109,cm−3
+
+,Base J0 – passivated,170 fA/cm2
+
+****10.1016/j.apsusc.2015.10.035****
+Table 1
+Group,,V,OC (mV),,J,SC (mA/cm2),FF (%),,η (%)
+S1,620.38±2.27,36.47±0.33,78.85±0.26,17.84±0.12
+S2,636.73±0.36,37.81±0.08,78.92±0.16,19.00±0.04
+S3,633.93±2.10,37.43±0.19,77.25±0.30,18.33±0.13
+R,636.93±1.20,37.36±0.17,79.09±0.13,18.82±0.11
+
+****10.1016/j.solener.2014.10.029****
+Table 1
+#,TMAH etch time (s),,V,oc (V),,J,sc (mA/cm2),FF (%),,η (%)
+B1,Without etch,0.622±0.002,35.10±0.5,77.84±0.5,16.9±0.2
+B2,120,0.629±0.002,35.09±0.5,78.63±0.5,17.3±0.2
+
+****10.1016/j.solmat.2012.10.001****
+Table 1
+Conditions,The ratio of SF6 to O2,,Voltage pulses (V),Etching time (min),Radio frequency power (w)
+C1,2.5/1,−500,5,900
+C2,3/1,−500,3,900
+C3,3/1,−500,5,900
+C4,3/1,−1000,5,900
+C5,3/1,−1500,5,900
+Table 2
+Condition,,U,oc (V),,J,sc (mA/cm2),,R,sh (Ω),,J,rev (mA/cm2),FF (%),,E,ff (%)
+C1,0.610,33.5,28,0.957,76.80,15.70
+C2,0.615,33.9,27,0.888,75.71,15.78
+C3,0.614,34.0,22,0.966,76.44,15.99
+C4,0.605,33.2,16,1.529,77.07,15.49
+C5,0.611,33.2,14,1.902,77.44,15.71
+
+****10.1016/j.mssp.2014.01.030****
+Table 1
+Conditions,Black silicon or not,Solutions used in DRE,Ratio of each component,Etching time
+C1,No,–,–,–
+C2,Yes,HNO3+HF+H2O,20:1:35 (volume),3min
+C3,Yes,HNO3+HF+H2O,20:1:35 (volume),4min
+C4,Yes,NaNO2+HF+H2O,6.4g:10ml:240ml,20min
+C5,Yes,NaNO2+HF+H2O,6.4g:10ml:240ml,30min
+C6,Yes,–,–,–
+Table 2
+Conditions,,V,oc (V),,J,sc (mA/cm2),,P,mp (W),FF (%),,E,ff (%)
+C1,0.617,35.11,4.075,77.27,16.74
+C2,0.616,35.72,4.175,77.96,17.15
+C3,0.618,35.77,4.184,77.71,17.19
+C4,0.623,35.99,4.249,77.82,17.46
+C5,0.617,35.74,4.158,77.45,17.09
+C6,0.612,34.89,4.005,77.10,16.46
+
+****10.1016/j.vacuum.2015.04.003****
+Table 1
+Sample#,Etching time (min),VOC (mV),JSC (mA/cm2),FF (%),η (%)
+1,Flat Glass,855,10.52,65.36,5.88
+2,30,860,10.60,66.33,6.05
+3,45,860,11.06,67.19,6.39
+4,60,865,11.29,69.06,6.73
+5,75,875,11.31,70.90,7.02
+
+****10.1016/j.egypro.2012.07.082****
+
+****10.1016/j.solmat.2006.06.015****
+Table 1
+Type of solar cell,Area of solar cell (cm2),Method of doping,,V,oc (V),,I,sc (A),FF,Efficiency (%)
+c-Si,98,POCl3 diffusion,0.564,2.80,0.73,11.7
+mc-Si,100,POCl3 diffusion,0.566,2.50,0.72,10.2
+
+****10.1016/j.mseb.2012.03.038****
+
+****10.1016/j.mssp.2012.08.006****
+Table 1
+Process,nb–Si–A cell,nb–Si–B cell
+Wet cleaning,Yes,Yes
+SDR,No,Yes
+Ag-induced chemical etching,Yes,Yes
+Solar cell manufacturing process,Yes,Yes
+Table 2
+Cell name,,V,,oc, (V),,J,,sc, (mA/cm2),,FF (%),,η (%)
+nb–Si–A (average),0.541,25.8,54.7,7.63
+nb–Si–A (best),0.544,24.9,61.2,8.29
+nb–Si–B (average),0.563,26.7,68.5,10.3
+nb–Si–B (best),0.564,26.4,70.4,10.5
+Table 3
+Parameters,Two-layer emitter model
+Front-surface recombination,,S,,front,=2.5×105,cm/s
+1st front diffusion (emitter),,N-type, Complementary error function profile 32.98Ω/□, 0.5044μm (Junction depth)
+2nd front diffusion (emitter),,N-type, Complementary error function profile 5.362Ω/□, 2.975μm (Junction depth)
+Background doping (base),,P-type, 7.216×1015,cm−3
+,1st rear diffusion (base),,P-type, Uniform profile, 16.18Ω/□, 5μm (Junction depth)
+Bulk lifetime,17μs
+Rear-surface recombination,,S,,rear,=1.0×104,cm/s
+
+****10.1016/j.mseb.2008.10.019****
+
+****10.1016/j.solener.2018.04.066****
+Table 1
+Conditions,Black silicon or not,Ratio of HNO3 + HF + H2O2 + H2O in DRE,Etching time
+C1,No black silicon,–,–
+C2,Black silicon,–,–
+C3,Black silicon,15:3:1:20,1 min
+C4,Black silicon,15:3:1:20,3 min
+C5,Black silicon,15:3:1:20,6 min
+C6,Black silicon,15:3:0:20,1 min
+Table 2
+Voc,/mV,,Jsc,/mA cm−2,,,Rs,/Ω,,FF/%,Eff./%
+SWS,635,36.66,0.0017,79.99,18.61
+DWS,636,36.42,0.0020,79.75,18.47
+Table 3
+Weighted average reflectance values of samples without SiNx films,Weighted average reflectance values of solar cells
+C1,36.39%,13.99%
+C2,3.82%,3.71%
+C3,11.26%,5.60%
+C4,19.46%,6.70%
+C5,25.08%,9.08%
+C6,28.92%,–
+Table 4
+Sample,Effective carrier lifetime/μs
+C1,62.01
+C2,14.64
+C3,43.60
+C4,55.89
+C5,58.06
+Table 5
+Voc,/mV,,Jsc,/mA cm−2,,,Rs,/Ω,,FF/%,Eff./%
+C1,636,36.42,0.0020,79.75,18.47
+C2,603,33.95,0.0016,78.78,15.98
+C3,629,36.09,0.0020,79.18,17.99
+C4,634,37.55,0.0018,80.07,19.07
+C5,635,36.86,0.0019,80.09,18.75
+
+****10.1016/j.pnsc.2015.11.006****
+Table 1
+Sample,,,Applied potential (V),,,TiO2 thickness (nm),,,Weighted average reflectance (%)
+A,0,0,21.490
+B,−0.6,0,4.045
+,C,,−0.6
+50
+0.339
+,,D,,−0.6
+100
+0.109
+,E,−0.9,0,2.401
+,F,,−0.9
+50
+0.376
+,,G,,−0.9
+100
+0.107
+
+****10.1016/j.solmat.2010.04.024****
+Table 1
+Cell detail,,,,J,sc (mA/cm2),,,,V,oc (mV),,,CF,,,,η(%),,,,R,s (Ω),,,,R,sh(kΩ),,,Diffusion length (μm)
+Cell A,29.3,588,0.73,12.64,0.512,4.8,128
+Cell B,28,531,0.36,5.3,1.6,0.454,152
+Cell C,37,544,0.68,13.7,0.85,2.2,194
+
+****10.1016/j.solener.2012.07.006****
+Table 1
+Cell type,,Voc, (mV),,Jsc, (mA/cm2),FF (%),Eff. (%),,Rs, (mΩ),,Rsh, (Ω),,Irev, (A)
+PIII textured cell,613,34.23,77.6,16.3,3.1,7.7,0.99
+Acid textured cell,617,33.24,78.0,16.0,2.9,11.4,0.67
+
+****10.1016/j.solener.2019.07.044****
+Table 1
+Group,Maximum doping concentrations (atoms/cm3),Depth (µm)
+Samples A,1.67 × 1020,,0.242
+Samples B,1.39 × 1020,,0.263
+Samples C,1.05 × 1020,,0.294
+Table 2
+Group,Weighted average reflectance values of samples with SiNx films,Average effective carrier lifetime of samples (μs)
+Samples A,3.13%,17.79
+Samples B,3.85%,19.50
+Samples C,4.88%,21.40
+Table 3
+Group,Type,Voc/mV,Isc/A,Rs/mΩ,FF/%,Eff/%
+Samples A,Average,636.67,9.053,1.790,80.389,18.85
+Best,638.86,9.127,1.727,80.407,19.08
+Samples B,Average,637.63,9.050,1.740,80.460,18.90
+Best,640.52,9.121,1.710,80.473,19.13
+Samples C,Average,638.92,9.042,1.650,80.590,18.95
+Best,641.31,9.087,1.608,80.817,19.17
+Table 4
+Bin,Group,Voc/mV,Isc/A,FF/%,Eff/%
+18.8%,Samples B,637.24,9.043,80.42,18.85
+Samples C,637.93,9.020,80.51,18.85
+18.9%,Samples B,638.03,9.066,80.48,18.95
+Samples C,638.53,9.057,80.53,18.95
+19.0%,Samples B,639.64,9.089,80.55,19.05
+Samples C,639.96,9.077,80.57,19.05
+Table 5
+Bin,Group,Pmpp/W,Voc/V,Isc/A,FF/%,Relative CTM ratio/%
+18.8%,Samples B,274.51,38.269,9.312,76.973,−0.95
+Samples C,276.02,38.370,9.297,77.320,−0.41
+18.9%,Samples B,275.88,38.326,9.337,77.039,−0.99
+Samples C,277.34,38.448,9.318,77.363,−0.46
+19.0%,Samples B,277.24,38.393,9.355,77.120,−1.02
+Samples C,278.50,38.478,9.353,77.329,−0.57
+
+****10.1016/j.solmat.2015.10.018****
+Table 1
+Laser speed (m/s),Efficiency (%),,J,SC (mA/cm2),,V,OC (V),FF (%),pFF (%)
+2,17.5,36.0,0.624,77.9,81.0
+3,18.1,36.3,0.624,80.1,82.3
+4,17.5,35.8,0.624,78.4,82.0
+Table 2
+Author,Texturing,Eff. (%),JSC (mA/cm2),,V,OC (V),FF (%),Cell type,,,,,,,,,Passivation, Cell area
+This work,RIE,18.1,36.3,0.624,80.1,CZ LDSE
+
+
+SiN,x,, 6.25cm2
+,Repo et al. [17],,RIE,18.7,39.2,0.632,75.8,FZ PERL
+
+
+ALD Al2O3, 4cm2
+,Yoo [20],,RIE,16.7,36.8,0.617,76.0,CZ Screen-printed
+
+
+SiN,x,, 156.25cm2
+,Oh et al. [19],,MACE,18.2,36.5,0.628,79.6,FZ, evaporated contacts
+
+
+Thermal SiO2, 0.8081cm2
+,Wang et al. [21],,MACE,18.2,41.3,0.598,75.1,CZ, evaporated contacts
+
+
+ALD Al2O3, 0.92cm2
+,Savin et al. [18],,RIE,22.1,42.2,0.665,78.7,FZ, IBC
+
+
+ALD Al2O3, 78.5cm2 (4 in)
+
+****10.1016/j.arabjc.2020.01.004****
+Table 1
+1st wet etching process,,,Parameter,Value
+Solution temperature (°C),80
+Time (min),40
+KOH concentration (wt.%),20
+
+,,2nd wet etching process
+Parameter,Value
+Solution temperature (°C),50
+Time (min),3
+AgNO3 concentration (M),0.015–0.075
+
+,,ALD-Al2O3 thin film deposition
+Parameter,Value
+Substrate temperature (°C),135
+H2O carry gas flow rate (sccm),400
+H2O dilute gas flow rate (sccm),4000
+TMA carry gas flow rate (sccm),200
+TMA dilute gas flow rate (sccm),2000
+Thickness (nm),15
+
+,,ICPCVD-SiNx thin film deposition
+Parameter,Value
+Substrate temperature (°C),120
+Power (W),1200
+Pressure (mTorr),5
+TMS flow rate (sccm),35
+NH3 flow rate (sccm),25
+Thickness (nm),50
+Table 2
+Parameter,Value
+Exterior front reflectance (%),Variable
+Exterior rear reflectance (%),0
+Internal optical reflectance (%),90
+Wafer thickness (μm),170
+P-type background doping (cm−3),1016
+,N-type doping (cm−3),1019
+,Front surface recombination (cm/s),Variable
+Rear surface recombination (cm/s),20
+Bulk recombination lifetime (μs),250
+Table 3
+Concentration (M),Voc (mV),Jsc (mA/cm2),FF,η (%)
+Industry,664.3,39.3,0.83,21.7
+Original,678.3,39.4,0.83,22.2
+0.015,676.8,39.9,0.83,22.4
+0.03,675.7,40.8,0.83,22.9
+0.045,674.1,40.6,0.83,22.7
+0.06,671.9,40.4,0.83,22.5
+0.075,670.4,38.9,0.83,21.6
+
+****10.1016/j.apsusc.2012.10.079****
+Table 1
+Category,,I,sc,(A),,V,oc,(V),,R,s,(mΩ),,R,sh,(Ω),FF,,E,ff,(%),,J,oe,(A)
+Reference cell 1,4.514,0.6054,6.790,54.65,0.7773,13.72,2.335
+Experimental cell 1,5.101,0.6117,8.200,77.05,0.7813,15.70,0.5365
+Reference cell 2,4.984,0.6164,7.430,166.6,0.7927,15.73,0.06439
+Experimental cell 2,5.439,0.6187,10.07,10.64,0.7277,15.82,0.07881
+
+****10.1016/j.solmat.2018.05.006****
+Table 1
+****10.1016/j.solener.2019.11.045****
+Table 1
+Name,Average (μs),Maximum (μs),Minimum (μs),SAVG (cm/s)
+Name,Raw Si,black Si of Group-A,black Si of Group-B
+R (%),44.37,16.18,18.17
+Name,,black Si coated with SiNx of Group-A,black Si coated with SiNx of Group-B
+R (%),,2.37,5.14
+Table 2
+Cell name,ŋ (ave),ŋ (max),Jsc (mA/cm2),Voc (mV),FF (%)
+Group-A,15.5,23.12,6.05,1000.86
+Group-B,28.3,37.96,8.46,677.13
+Table 3
+****10.1016/j.solener.2020.03.072****
+Table 1
+Name,τave(μs),τmax(μs),τmin(μs),save(cm/s)
+Additive Group,24.84,36.63,11.09,380.39
+Control Group,12.87,23.36,4.25,1497.11
+Table 2
+Cell name,Cell name,ŋ (ave),ŋ (max),Jsc (mA/cm2),Voc (mV),FF (%),Rsh(Ω),Irev1(mA),Irev2(mA)
+Group-A,Control Group,18.75,19.03,37.28,628.19,80.08,49.95,0.24,0.56
+Group-B,Additive Group,19.15,19.49,37.58,635.58,80.19,383.05,0.05,0.08
+
+****10.1016/j.nanoen.2019.02.021****
+Table 1
+Samples,a,,,,V,oc,,b, (V),,J,sc,,b, (mA/cm2),FF,b, (%),PCE,b, (%)
+Planar
+0.590
+26.6
+72.9
+11.4
+,(reference),(0.588 ± 0.002),(26.4 ± 0.3),(72.5 ± 0.4),(11.3 ± 0.1)
+,Pencil 825 °C
+0.575
+35.7
+70.2
+14.4
+,(0.574 ± 0.001),(35.5 ± 0.2),(70.4 ± 0.2),(14.4 ± 0.1)
+,Pencil 850 °C
+0.582
+35.3
+74.4
+15.3
+,(0.584 ± 0.002),(35.0 ± 0.5),(73.8 ± 0.7),(15.1 ± 0.2)
+,Pencil 875 °C
+0.584
+25.4
+74.8
+11.1
+,(0.582 ± 0.002),(25.2 ± 0.7),(74.3 ± 1.0),(10.9 ± 0.5)
+a
+****10.1016/j.egypro.2017.09.296****
+
+****10.1016/j.solmat.2017.03.017****
+Table 1
+Sample,Voc,,Jsc,,FF,Eff,,Rs,,,,,(mV),(mA/cm2),(%),(%),(ohm)
+A−10,637.1,36.94,79.01,18.62,0.00219,Best
+,636.3,36.95,78.67,18.52,0.00224,Average
+
+,,B−15,637.7,37.47,78.84,18.87,0.00250,Best
+,636.6,37.49,78.81,18.83,0.00242,Average
+
+,,C−20,633.8,36.92,78.24,18.34,0.00241,Best
+,634.2,36.62,78.62,18.28,0.00245,Average
+
+,,R,637.0,36.88,78.22,18.40,0.00275,Best
+,634.7,36.84,77.87,18.23,0.00277,Average
+
+****10.1016/j.jallcom.2019.06.269****
+Table 1
+Levels,Symbol of Factors,Unit,Factors,,,1,−1
+910,810,A,°C,Temperature
+60,15,B,Min,Time
+Table 2
+Current density(mA/cm2),Voltage (V),Factors,Run order,Standard order,,,B,A
+18.5,0.583,25.00,910.00,8,3
+15.17,0.534,42.84,859.47,5,4
+15.68,0.534,26.42,877.16,1,6
+1.05,0.545,48.02,835.36,14,7
+13.44,0.575,37.61,881.98,10,8
+8.97,0.562,19.50,891.47,9,9
+13.08,0.544,58.91,824.94,6,10
+0.85,0.545,29.63,893.25,3,11
+24.32,0.607,60.00,840.00,4,12
+21.08,0.575,60.00,810.00,11,13
+12.92,0.524,15.00,910.00,7,14
+19.88,0.589,25.00,910,15,15
+Table 3
+Significance,P,,>,,F,F value,Mean square,Degree of freedom,Sum of squares,Source
+Significant
+,<,,0.0013,18.74,1.268E-003,5,6.338E-003,Model
+
+,<,,0.008,15.18,1.027E-003,1,1.027E-003,A
+
+,<,,0.0124,12.46,8.43E-004,1,8.43E-004,B
+
+,<,,0.0006,43.36,2.933E-003,1,2.933E-003,AB
+
+,<,,0.0006,44.4,3.004E-003,1,3.004E-003,A2
+
+,,<,,0.0005,44.87,3.036E-003,1,3.036E-003,B2
+
+,6.765E-005,6,4.059E-004,Residual
+
+,11,6.744E-003,Core total
+Table 4
+Significance,P,,>,,F,F value,Mean square,Degree of freedom,Sum of squares,Source
+Significant
+,<,,0.0015,663.07,0.12,9,1.11,Model
+
+,<,,0.0003,2978.49,0.55,1,0.55,A
+
+,<,,0.0003,3062.99,0.57,1,0.57,B
+
+,<,,0.0003,2994.24,0.56,1,0.56,AB
+
+,<,,0.0003,3061.58,0.57,1,0.57,A2
+
+,,<,,0.0003,2890.25,0.54,1,0.54,B2
+
+,,<,,0.0003,3170.73,0.59,1,0.59,A2B
+
+,<,,0.0003,3098.82,0.58,1,0.58,AB2
+
+,,<,,0.0003,3223.92,0.6,1,0.6,A3
+
+,,<,,0.0003,2994.09,0.56,1,0.56,B3
+
+,1.861E-004,2,3.722E-004,Residual
+
+,11,1.11,Core total
+Table 5
+ɳ(%),FF,VOC(V),JSC(mA/cm2),category
+13.64,0.53,0.611,43.43,Porous silicon solar cell
+11,0.5,0.612,36.48,Non-porous silicon solar cell
+
+****10.1016/j.scriptamat.2012.10.023****
+Table 1
+Cell parameters,Black silicon solar cells,BSOE solar cells
+V,,oc, (mV),600,607
+,J,,sc, (mAcm−2),33.2,34.5
+,R,,s, (mΩ),3.26,3.01
+,R,,sh, (Ω),64.8,423.0
+,FF (%),77.87,78.06
+,E,,ff, (%),15.5,16.3
+,J,,rev, (mAcm−2),2.8,0.26
+
+****10.1016/j.solener.2020.10.038****
+Table 1
+Undamaged homogenous emitter,Laser-damaged local n++ emitter,,,Model 0,Model 1,Model 2,Model 3
+SRV,Sp = 103 cm/s,Sp = 107 cm/s,Sp = 107 cm/s,Sp = 107 cm/s
+Phosphorus profile,Standard,Standard,Laser-doped,Laser-doped
+Surface damage,–,–,–,0–0.01 µm: 10−12 s 0.01–0.06 µm: 10−11 s
+Table 2
+Parameter,With damaged local emitter,With undamaged local emitter
+Max power voltage,587.6 mV,587.6 mV
+Max power current,38.66 mA/cm2,,38.87 mA/cm2
+,Open-circuit voltage,682.4 mV,686.8 mV
+Short-circuit current,40.41 mA/cm2,,40.47 mA/cm2
+,Fill factor,0.8239,0.8217
+Efficiency,22.72%,22.84%
+
+****10.1016/j.ijleo.2011.11.008****
+
+****10.1016/j.solener.2016.12.007****
+Table 1
+Voc/mV,Jsc/mAcm−2,,Rs/Ω,FF/%,Eff./%
+mc-Si,636,35.83,0.0023,79.73,18.17
+Inverted pyramid Si,635,36.74,0.0022,79.81,18.62
+
+****10.1016/j.elecom.2020.106686****
+Table 1
+Fabrication of black silicon,Chemicals (volume ratio, substances are commonly used industrial chemicals),Temperature (°C),Time (s)
+Step 1:Saw damage removal,KOH:H2O = 18:82,80,180
+Step 2-A:Ag deposition,Ag+: 0.06 g/L
+Additive: 0.02 mL/L,25,60
+Step 2-B:Ag deposition,Ag+:0.06 g/L,25,60
+Step 3: Etching,H2O2:HF:H2O = 30:10:60,35,360
+Step 4:Nanostructure enlargement,HF:HNO3:H2O = 10:40:50,8,120
+Step 5:Alkaline cleaning,KOH:H2O = 10:90,25,60
+Step 6:Silver removal,H2O2:NH3·H2O:H2O = 8:6:86,25,180
+Step 7:Drying (b-Si),N2,,90,600
+Table 2
+Name,Reflectance (%)
+Bare Si,46.07
+Si after Step 3 processing (experimental group),3.9
+Si after Step 3 processing (control group),7.3
+b-Si obtained from the experimental group,16.04
+b-Si obtained from the control group,18.17
+Table 3
+Name,τave (μs),τmax (μs),τmin (μs),,S,ave (cm/s)
+Experimental group,14.51,22.13,5.32,1067
+Control group,27.79,39.36,8.29,704.97
+Table 4
+Name,ŋ (ave/%),ŋ (max/%),,J,sc (mA/cm2),,V,oc (mV),,FF (%)
+Control group,18.87,19.16,37.23,628.6,80.63
+Experimental group,19.20,19.51,37.64,636.0,80.20
+
+****10.1016/j.solmat.2018.03.003****
+Table 1
+Characteristic,No treatment,Surfactant,,,AEO7,JA
+Contact angle (at 25 °C),93°,30°,13°
+Temperature range,…
+a,10–25 °C
+a,5–25 °C
+a
+Mask,Pits,Reflectivity,,,Pattern pitch,Aperture ratio,Thickness (µm),Opening (µm),Diameter (d) (µm),Depth (h) (µm),h/d,Surface occupancy (%),Pre-etched (%),Avg. (%)
+Batch immersion [33],,18 µm,0.5,5.2 ± 0.2,8.6 ± 0.2,15.1 ± 1.1,6.5 ± 0.4,0.43,64,24.5,20.5
+,,a,Sample 1,18 µm,0.5,1.9 ± 0.6,8.9 ± 0.28,15.9 ± 0.5,6.8 ± 0.4,0.43,70,25.0,20.1
+,,a,Sample 2,18 µm,0.44,1.7 ± 0.4,7.9 ± 0.27,15.8 ± 0.6,7.4 ± 0.4,0.46,70,25.0,19.7
+Table 2
+Type of etching process,HF [49%],HNO3 [68%],H2O,Surface treatment,Transfer speed/distance [m/min]/[m],Temperature (°C)
+Conventional,1,4,5,…,1.8/2,7
+Single-face,1,6,…,JA 0.8%,0.6/0.8,10
+a
+Texturing process (total number),,τ [µs],,Γ [%],,Γ,,AR, [%],,D,,AR, [nm],,R,,sh, [Ω],,R,,s, [mΩ],,I,,sc, [A],,V,,oc, [mV],,FF,,,η [%]
+Conventional (1000),10.32,24.5,5.13,86.1,773.3,1.66,8.836,631.0,79.94,18.31
+Single-face (996),13.57,20,4.03,86.2,620.7,1.75,8.955,631.4,79.87,18.57
+Table 3
+****10.1016/j.commatsci.2018.04.059****
+Table 1
+Contact parameters,Front Contact,Back Contact
+Contact Material,Titanium (Ti),Silver (Ag)
+Width (cm),2 × 10−8,,0.001
+[n, k] values,Ti. nk,Ag. nk
+Metal work function (eV),4.33,4.26
+Absorption loss,Ti.abs,0
+External reflection constant,Ti.ref,0
+Surface condition,Plane,Plane
+Internal reflection constant,0,0
+Table 2
+Input parameters,Phosphorene (Arm chair),n-cSi
+Thickness (cm),6.6 × 10−8–1.32 × 10−6,,0.001–0.03
+Dielectric constant (εr),2.8–10.2,11.9
+Electron affinity χ (eV),3.6–4.1,4.02–4.22
+Band gap, Eg (eV),0.30–1.50,1.12
+Effective conduction band density, NC (cm−3),1 × 1012–2 × 1019,,3 × 1013–3 × 1019
+,Effective valence band density, NV (cm−3),1 × 1012–2 × 1019,,3 × 1013–3 × 1019
+,Effective electron mobility, μn (cm2/V s),1.58 × 10−2–1.58 × 103,,1500
+Effective hole mobility, μp (cm2/V s),6.4 × 10−2–6.4 × 103,,500
+Acceptor concentration NA (cm−3),1 × 1010–1 × 1018,,0
+Donor concentration ND (cm−3),0,1 × 1012–1 × 1017
+,Electron thermal velocity, Ve (cm s−1),3 × 107,,1 × 107
+,Hole thermal velocity, Vh (cm s−1),3.1 × 107,,1 × 107
+,Layer density, (g cm−1),2.69,2.328
+Auger electron recombination coefficient, (cm6 s−1),∼4.098 × 10−43,,2.8 × 10−31
+,Auger hole recombination coefficient, (cm6 s−1),∼4.098 × 10−43,,1 × 10−31
+,Band-to-band recombination coefficient, (cm3 s−1),0,0
+Defect properties,Single Acceptor,Single Acceptor
+Total trap density (cm−3),1.36 × 1015,,1 × 1014
+,Characteristic energy (eV),0.0216,0.56
+Effective mass of electron (m*/m0),0.17,0.98
+Effective mass of hole (m*/m0),0.15,0.49
+Table 3
+Cell parameters,Phosphorene layer optimized cell (Arm Chair Direction),Phosphorene layer and n-cSi wafer optimized cell,n-cSi wafer optimized cell for practically available silicon parameters,Experimentally and theoretically available phosphorene based solar cell
+VOC (mV),525.8,655.5,502.3,–
+JSC (mA/cm2),26.34,28.66,26.06,–
+FF (%),72.48,82.57,75.17,–
+
+η,, (%),10.04 (@ Single layer phosphorene at NA = 1014 cm−3,Nc/Nv = 2 × 1018 cm−3,Eg = 1.30 eV,χ = 3.6 eV,εr = 2.88,µn = 1100 cm2/Vs,µp = 700 cm2/Vs,and @ 220 μmn-cSi at ND = 9 × 1014 cm−3,Nc/Nv = 1 × 1019 cm−3,χ = 4.22 eV),15.51 (@ Single layer phosphorene at NA = 1014 cm−3,Nc/Nv = 2 × 1018 cm−3,Eg = 1.30 eV,χ = 3.6 eV,εr = 2.88,µn = 1100 cm2/Vs,µp = 700 cm2/Vs, and @ 100 μmn-cSi at ND = 1017 cm−3,Nc/Nv = 1019 cm−3,χ = 4.22 eV),9.83 (@ Single layer phosphorene at NA = 1013 cm−3,Nc/Nv = 2 × 1018 cm−3,Eg = 1.30 eV,χ = 3.6 eV,εr = 2.88,µn = 1100 cm2/Vs,µp = 700 cm2/Vs, and @ 100 μm n-cSi at ND = 1015 cm−3,Nc/Nv = 2.8 × 1019/1.04 × 1019 cm−3, χ = 4.05 eV and μp = 450 cm2/Vs
+,η,, was reported to be in range of 0.3–6.52% (experimentally) [2,52],And 16–18% (theoretically) [53]
+
+****10.1016/j.solmat.2018.06.001****
+Table 1
+/,,,W/o nano.,,,With nano.,,,W/o nano. & SiN,,X,,coating,,,With nano. & SiN,,X,,coating
+η
+,R
+,27.20%,13.82%,8.05%,3.19%
+,,η
+,T
+,8.45%,6.53%,12.02%,6.59%
+Table 2
+/,,,,Jsc,,(mA/cm,,2,,),,,,Voc,,(V),,,,FF,,(%),,,,PCE,,(%)
+W/o nano-textured cells (Avg. and Best),,36.47 ± 0.13,0.6358 ± 0.0017,80.02 ± 0.22,18.56 ± 0.08
+36.74,*
+0.6364,*
+80.05%,*
+18.72%,*
+
+With nano-textured cells (Avg. and Best),,37.72 ± 0.18,0.6295 ± 0.0021,80.38 ± 0.21,19.09 ± 0.16
+38.10,*
+0.6354,*
+80.53,*
+19.50,*
+
+Increased value (Avg.),,1.25 ± 0.23,− 0.0063 ± 0.0027,0.36 ± 0.30,0.53 ± 0.18
+*
+****10.1016/j.cap.2020.01.013****
+Table 1
+Voc (V),Isc (mA/cm2),F.F (%),Efficiency (%)
+Acid-tex.,0.648 ± 0.001,8.783 ± 0.008,78.72 ± 0.18,18.96 ± 0.08
+,RIE-tex.
+0.649 ± 0.001
+8.997 ± 0.011
+79.08 ± 0.04
+19.56 ± 0.06
+
+****10.1016/j.solmat.2016.05.046****
+Table 1.
+Process,Avg. reflectance at λ300–900nm (%),Jsc gain (mA/cm2),Efficiency gain (%)
+FCl2/FO2=0.5,~5.5,0.74,0.30
+FCl2/FO2=1,~7,0.49,0.25
+FCl2/FO2=2,~8.5,0.31,0.18
+FCl2/FO2=3,~10,0.12,0.03
+Reference cell with SiNx,~12,–,–
+Table 2.
+Process,Avg. reflectance at λ300–900nm (%),Jsc gain (mA/cm2),Efficiency gain (%)
+FSF6/FO2=0.5,~ 6,0.45,0.22
+FSF6/FO2=1,~ 5,0.89,0.35
+FSF6/FO2=2,~ 4.5,0.69,0.29
+FSF6/FO2=3,~ 8,0.39,0.14
+Reference cell with SiNx,~12,–,–
+Table 3.
+Condition,Voc (V),Jsc (mA/cm2),FF (%),Efficiency (%)
+Wet texturing,0.624,34.95,78.91,17.21
+FCl2:FO2:FSF6=5:3:1,0.623,35.77,78.01,17.38
+FCl2:FO2:FSF6=3:3:3,0.623,35.99,78.22,17.53
+FCl2:FO2: FSF6=1:3:5,0.624,36.62,78.62,17.97
+
+****10.1016/j.solener.2018.04.049****
+Table 1
+Cell name,η(%),Voc (mV),Isc (mA/cm2),FF (%)
+SA0s,16.81,618.2,33.98,80.03
+SA90s,17.90,628.1,35.44,80.45
+SA120s,18.88,638.6,36.67,80.64
+SA180s,18.36,634.3,35.89,80.66
+
+****10.1016/j.mssp.2019.01.028****
+Table 1
+Main peak,Peak-α,Peak-β
+BS-30,559.19,437.73,630.79
+BS-60,568.28,528.27,709.21
+BS-90,567.19,515.54,694.63
+
+****10.1016/j.ijleo.2020.165781****
+Table 1
+Etching time (min),Potential Jsc(max) (mA/cm2),Jsc(max) enhancement (mA/cm2),Jsc(max) enhancement (%)
+c-Si reference,24.2,–,–
+10 min,35.6,11.4,47.1
+15 min,37.6,13.4,55.4
+20 min,39.3,15.1,62.4
+25 min,38.8,14.6,60.3
+
+****10.1016/j.solmat.2015.07.017****
+Table 1
+Cell (156×156mm2),,Experimental,,R,ave (%),,Simulated,,Theoretical maximum,,,,,I,sc (A),,V,oc (V),,FF (%),,η (%),,I,rev (A),,R,ser (Ωcm2),,R,sh (Ωcm2),Sheet Resistance (Ωsq−,1),,,DL (nm),,η (%),,,I,sc,th (A),,η,th (%)
+500s N/M-Strus,,8.5839,0.6258,79.59,17.57,0.165,0.4794,26575,81,7.83,,120.0,17.65,,9.715,19.84
+700s N/M-Strus,,8.5924,0.6244,79.62,17.45,0.227,0.4648,16269,75,6.40,,152.0,17.38,,9.807,20.03
+900s N/M-Strus,,8.5954,0.6223,79.07,17.22,0.451,0.4721,8415,70,5.77,,170.0,17.23,,9.856,20.13
+Reference,,8.5526,0.6261,79.26,17.45,0.119,0.5037,37964,85,8.47,,101.0,17.47,,9.644,19.70
+
+****10.1016/j.apsusc.2019.02.001****
+Table 1
+Cell type,Jsc (mA/cm2),Voc (V),FF (%),Efficiency (%),Rs (Ω),Rsh (Ω)
+Pyramid only,37.0,0.626,78.51,18.18,0.0014,10.5
+4 min,37.3,0.631,78.48,18.47,0.0016,10.5
+8 min,37.7,0.634,78.59,18.78,0.0017,12.7
+16 min,36.3,0.622,78.45,17.71,0.0022,11.2
+24 min,34.6,0.621,75.10,16.14,0.0038,10.4
+
+****10.1016/j.solmat.2010.02.033****
+
+****10.1016/j.matpr.2019.06.596****
+
+****10.1016/j.solmat.2019.109983****
+Table 1
+Ag ion concentration of MACE step1,Voc/mV,Jsc/mA·cm−2,,FF/%,Rs/mΩ,Rsh/Ω,Eff./%
+Traditional acid,636.5,36.11,80.16,1.84,243.68,18.43
+0.001 M,635.2,36.25,80.38,1.41,214.93,18.51
+0.005 M,635.1,35.24,80.36,1.39,126.81,18.64
+0.01 M,636.5,36.55,80.98,1.16,164.23,18.84
+0.02 M,637.1,37.19,81.95,1.94,71.24,18.94
+0.05 M,633.9,35.92,80.76,1.12,37.69,18.60
+0.1 M,627.7,38.17,73.50,2.37,2.40,17.61
+
+****10.1016/j.mssp.2020.105187****
+Table 1
+Jsc (mA cm−2),VOC (mV),FF (%),η(%),Rsh (Ω cm2),Rs (Ω cm2)
+PAAE,37.29,655,79.47,19.39,14314.89,0.35
+
